@@ -155,48 +155,4 @@ home : upcame connected datas:
 When new programs are created, this thing can simulate
 more fun things. In example, we could simulate hacking
 google in it. Actually we are simulating. Take
-a look at source code deaaaaaarrrrrrr ;)))
-
-(interesting effects of listening Queen too much)
-
-## Future of the Project
-(I wasn't going to write that part actually, cuz
-theres no future of this project. And this is
-not even a project.)
-
-Future of the Project. Damn. What future mate? Or 
-what, future mate? That would be a surprising desire
-to get. Of course I wanna go on with it to see 
-how this thing will be when can simulate SSH, FTP,
-Trojans and other computery things. Could be really
-fun to play with. Just don't needing to the virtual
-machines is a big improvement in the simulating aspect
-though. Maybe that would be faster than having 2 Kali
-Linux and 3 Windows computers on virtual computers to
-simulate a hacking environment.  (Actually I realized
-that when we use virtual machines, we have seperated
-kernels (one for ours, other 5 for the simulated ones,
-great storage, memory, cpu usage!). But this technique 
-uses just one kernel. I don't know if the explanation 
-makes some logical noises. (More like... belief?) 
-Thinking it in this way kinda 
-relaxing.(More like belief.)) But probably I won't
-develop it that much. What would I have it when I
-complete it in example? Let's just get our fun out of
-it. And, like every other people, I got things to do.
-More logical than this. Hobbies count nothing. (Damn
-think about this: I wrote this in Python because I
-was just curious about what could happen. I wrote
-great things on C or C++ generally. I mean, what
-if I write that base in C... Not mean much but,
-thinking about it, feels interesting. Maybe 
-would be faster? Fast enough now but i dont know.
-My brain makes up a bit much excuses about it.
-Would be a great brain exercise.(Thats a scam excuse
-too probably.))
-
-Did you understanded the concept and wanted to develop 
-it further, after this? Go da hell outta and develop
-it. Rats all over the place. I didn't saw that much
-chaos in my life. Explosions and something. Should have
-a meaning though.
+a look at source code
